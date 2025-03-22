@@ -7,3 +7,4 @@ Buy a camera
 Make soup
 Clean the code
 Budget meeting today
+Master Python!
